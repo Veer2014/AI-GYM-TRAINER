@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS Files
+.DS_Store
